@@ -10,7 +10,7 @@ namespace JenkinsDotNet48PoC
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World! FW 4.8");
+            Console.WriteLine("Hello, World! FW 4.8 on 03/24/2024");
         }
     }
 }
